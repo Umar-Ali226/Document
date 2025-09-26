@@ -1,20 +1,22 @@
-Day 1: Defining Business Goals
-I defined clear business goals for my general e-commerce website, AuraBox, with a primary purpose:
+# Day 1:
+### Defining Business Goals
+I defined clear business goals for my **general e-commerce website**, AuraBox, with a primary purpose:
 
-Delivering quality products at competitive prices.
-Focusing on customer satisfaction and smart branding.
-Solving common issues in my region, offering fast delivery, clear return policies, and helpful customer support.
-Providing multiple payment methods like Cash on Delivery, JazzCash, and EasyPaisa.
-The goal is to make shopping trustworthy, easy, and enjoyable for everyone.
+1. Delivering quality products at competitive prices.
+2. Focusing on customer satisfaction and smart branding.
+3. Solving common issues in my region, offering fast delivery, clear return policies, and helpful customer support.
+4. Providing multiple payment methods like Cash on Delivery, JazzCash, and EasyPaisa.
+5. The goal is to make shopping trustworthy, easy, and enjoyable for everyone.
 
 
-Day 2: Marketplace Technical Foundation
-I worked on the technical foundation of the platform:
+# Day 2:
+### Marketplace Technical Foundation
+I worked on the **technical foundation** of the platform:
 
-Front-End: Next.js, HTML, TailwindCSS.
-Content Management: Sanity.
-APIs: Used third-party APIs for payment, shipping, and tracking.
-Order Processing Flow: Designed a step-by-step process for product selection, adding to the cart, checkout, payment, and order tracking to ensure a seamless user experience.
++ Front-End: Next.js, HTML, TailwindCSS.
++ Content Management: Sanity.
++ APIs: Used third-party APIs for payment, shipping, and tracking.
++ Order Processing Flow: Designed a step-by-step process for product selection, adding to the cart, checkout, payment, and order tracking to ensure a seamless user experience.
 
 
 
