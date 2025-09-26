@@ -64,5 +64,7 @@ I thoroughly tested the platform and **refined** its **backend**:
 3. Deployed the AuraBox website to staging without any errors.
 4. Performed staging environment testing:
 > Functional testing of all pages.
+> 
 > Performance analysis using Lighthouse.
+> 
 > Security checks by validating input fields.
