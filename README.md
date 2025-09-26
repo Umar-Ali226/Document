@@ -1,4 +1,6 @@
-# Day 1:
+   # __AuraBox__
+
+## Day 1:
 ### Defining Business Goals
 I defined clear business goals for my **general e-commerce website**, AuraBox, with a primary purpose:
 
@@ -9,7 +11,7 @@ I defined clear business goals for my **general e-commerce website**, AuraBox, w
 5. The goal is to make shopping trustworthy, easy, and enjoyable for everyone.
 
 
-# Day 2:
+## Day 2:
 ### Marketplace Technical Foundation
 I worked on the **technical foundation** of the platform:
 
